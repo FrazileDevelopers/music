@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "403007588813",
+    "project_id": "music-6cd24",
+    "storage_bucket": "music-6cd24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403007588813:android:10a784f732d7631f4e5c84",
+        "android_client_info": {
+          "package_name": "com.fz.music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403007588813-cctvpugtumgr8i4vrf7lpt75btlmkpf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fz.music",
+            "certificate_hash": "ad61247d91244972cb59d0440fc3a3f329282ead"
+          }
+        },
+        {
+          "client_id": "403007588813-i2kolcaeelhsft67u6g6i5a50et9hvid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGFZkfbnRbLUAg3soMgane5dmvpixLrBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403007588813-i2kolcaeelhsft67u6g6i5a50et9hvid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
